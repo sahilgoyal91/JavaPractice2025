@@ -1,5 +1,6 @@
 package javaBasics;
 
+//expression
 // (((((10*3)+2)*4)-4)/2)
 
 public class Arithmetic_2 
